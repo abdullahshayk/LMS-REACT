@@ -1,0 +1,30 @@
+.containerquizzes {
+  border: black 2px solid;
+  width: 700px;
+  margin-left: 20%;
+  margin-bottom: 20px;
+  padding: 20px;
+}
+.quiztitledets {
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bolder;
+}
+.quizmarksdets {
+  margin-left: 55%;
+  font-weight: bold;
+  font-size: medium;
+}
+.quizdeadlinedets {
+  margin-left: 60%;
+  font-size: 10px;
+  font-weight: bolder;
+}
+.btndets {
+  text-decoration: none;
+  background-color: rgb(164, 164, 184);
+  padding: 10px;
+  border-radius: 15px;
+  font-weight: bolder;
+  font-size: 17px;
+}

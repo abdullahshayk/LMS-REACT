@@ -1,0 +1,18 @@
+.bar {
+  background-color: lightskyblue;
+  display: flex;
+  height: 30px;
+  align-items: center;
+  border-radius: 20px;
+}
+.barItems {
+  list-style: none;
+  margin-right: 50px;
+  font-weight: bolder;
+  text-decoration-line: none;
+}
+.header {
+  width: fit-content;
+
+  margin-left: 30%;
+}

@@ -1,0 +1,40 @@
+.addquizcontainer {
+  margin-left: 20%;
+  border: solid 1px black;
+  width: 700px;
+  padding: 20px;
+  display: flex;
+}
+label {
+  font-weight: bold;
+  font-size: 17px;
+  margin: 10px;
+}
+.quizMarksadd {
+  margin-left: 50%;
+}
+.firstrow {
+  display: flex;
+  flex-direction: row;
+}
+.form-control {
+  width: 200px;
+  margin: 10px;
+  padding: 5px;
+}
+.quizQuestionsadd {
+  margin-left: 30%;
+}
+.deadlineadd {
+}
+
+.btn-addquiz {
+  width: 140px;
+  height: 50px;
+  margin-left: 50%;
+  border-radius: 20px;
+  border: rgb(49, 76, 128) solid 3px;
+  background-color: rgb(133, 190, 192);
+  font-size: larger;
+  font-weight: bold;
+}
